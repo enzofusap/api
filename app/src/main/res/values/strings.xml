@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="welcomeText">Bienvenido a mi app del clima</string>
+    <string name="pNow">Pronóstico Actual</string>
+    <string name="cityList">Listado de Ciudades</string>
+    <string name="actualTempLabel">Temperatura actual:</string>
+    <string name="minTempLabel">Temperatura mínima:</string>
+    <string name="maxTempLabel">Temperatura máxima:</string>
+
+</resources>
