@@ -34,7 +34,6 @@ public class ListActivity extends AppCompatActivity {
         names.add("Río grande");
         names.add("Bariloche");
         names.add("Rawson");
-        names.add("Santiago");
        CustomAdapter customAdapter = new CustomAdapter(getApplicationContext(),android.R.layout.simple_list_item_1,names);
         listView.setAdapter(customAdapter);
 
